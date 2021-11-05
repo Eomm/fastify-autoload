@@ -57,7 +57,7 @@
     "typescript": "^4.2.3"
   },
   "dependencies": {
-    "pkg-up": "^3.1.0",
+    "pkg-up": "^4.0.0",
     "semver": "^7.3.2"
   },
   "standard": {
